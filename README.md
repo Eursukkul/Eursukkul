@@ -4,9 +4,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eursukkul" alt="eursukkul" /></a> </p>
 
 - 🌱 Senior Full Stack Developer with 4+ years architecting scalable applications across fintech, CRM, loyalty, and
-contact-center platforms. Deep expertise in C#/.NET Core, Golang, React, and Next.js, applying microservices, Clean
+contact-center platforms. Deep expertise in C#/.NET Core, Golang, React, python, vue, react, Nuxt.js and Next.js, applying microservices, Clean
 Architecture, DDD, and CQRS to deliver reliable, maintainable systems. Proven at integrating LINE Official Account
-channels and AI-assisted workflows, and at turning complex business processes into production-ready software.
+channels, payment gateway and AI-assisted workflows, and at turning complex business processes into production-ready software.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
