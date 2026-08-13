@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chalermphan Eursukkul</h1>
 <h3 align="center">A passionate Developer from Thailand</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eursukkul" alt="eursukkul" /></a> </p>
-
 - 🌱 Senior Full Stack Developer with 4+ years architecting scalable applications across fintech, CRM, loyalty, and
 contact-center platforms. Deep expertise in C#/.NET Core, Golang, React, python, vue, react, Nuxt.js and Next.js, applying microservices, Clean
 Architecture, DDD, and CQRS to deliver reliable, maintainable systems. Proven at integrating LINE Official Account
